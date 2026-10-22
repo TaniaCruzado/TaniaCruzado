@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @TaniaCruzado
-- 👀 I’m interested in in knowing professional and generating friendship
-- 🌱 I’m currently learning learning about agile methodologies
-- 💞️ I’m looking to collaborate on tips in HR recruit
-- 📫 How to reach me www.linkedin.com/in/taniacruzado
+¡Hola, mundo! 👋 Soy Tania Cruzado
 
+💜 IT Recruiter | Tech Talent Acquisition | IT Headhunter
 
-<!---
-TaniaCruzado/TaniaCruzado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Soy psicóloga con más de 6 años de experiencia en reclutamiento, especializada en talento tecnológico. 💻
+
+🔎 Perfiles TI: Desarrollo de Software, Data, Cloud, DevOps, Ciberseguridad, QA, SAP y Oracle.
+
+🚀 Especialidades: Tech Hunting, Talent Mapping, Sourcing e IA aplicada al reclutamiento.
+
+🤝 ¡Conectando talento tecnológico con grandes oportunidades!
+
+📩 Conectemos: [LinkedIn](https://www.linkedin.com/in/taniacruzado/)
